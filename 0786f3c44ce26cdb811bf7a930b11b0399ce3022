@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0127549f_b6dbfa37",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1013882
+      },
+      "writtenOn": "2018-04-04T16:21:14Z",
+      "side": 1,
+      "message": "Looks good",
+      "revId": "0786f3c44ce26cdb811bf7a930b11b0399ce3022",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f7a21668_ef284e13",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013882
+      },
+      "writtenOn": "2018-04-04T16:21:14Z",
+      "side": 1,
+      "message": "year is not used, leap year should be determined to find number of days in February",
+      "range": {
+        "startLine": 1,
+        "startChar": 55,
+        "endLine": 1,
+        "endChar": 63
+      },
+      "revId": "0786f3c44ce26cdb811bf7a930b11b0399ce3022",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6babb3ab_35074c2a",
+        "filename": "leapYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013882
+      },
+      "writtenOn": "2018-04-04T16:21:14Z",
+      "side": 1,
+      "message": "Looks good",
+      "revId": "0786f3c44ce26cdb811bf7a930b11b0399ce3022",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
